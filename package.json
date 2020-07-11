@@ -1,0 +1,22 @@
+{
+  "name": "colin",
+  "version": "1.0.0",
+  "description": "test_shang",
+  "main": "index.js",
+  "scripts": {
+    "test": "..."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShangWeiH/test.git"
+  },
+  "keywords": [
+    "....."
+  ],
+  "author": "shangwei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShangWeiH/test/issues"
+  },
+  "homepage": "https://github.com/ShangWeiH/test#readme"
+}
